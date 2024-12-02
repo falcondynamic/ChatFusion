@@ -72,3 +72,7 @@ Bu proje, kullanıcıların sohbet verilerinden anlamlı içgörüler çıkarabi
   - 02_data_analysis.ipynb
   - 03_model_training.ipynb
   - 04_question_answering.ipynb
+
+
+## Örnek projeler  
+1. https://www.kaggle.com/code/omgits0mar/chatbot-from-scratch-llms-finetune
