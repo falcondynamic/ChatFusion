@@ -58,8 +58,8 @@ Bu proje, kullanıcıların sohbet verilerinden anlamlı içgörüler çıkarabi
 ## Kullanım  
 1. Depoyu klonlayın:  
    ```bash
-   git clone https://github.com/kullanici/chatfusion.git
-   cd chatfusion
+   git clone https://github.com/falcondynamic/ChatFusion.git
+   cd ChatFusion
 
 2. Gerekli kütüphaneleri yükleyin:
     ```bash
